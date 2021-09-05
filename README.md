@@ -1,2 +1,3 @@
 # HELLO, I start to Learn Git
-thank you.
+thank you!
+3Q
